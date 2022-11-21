@@ -1,0 +1,91 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(202, 202, 202);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+header {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+    max-width: 100%;
+
+}
+
+header h1 {
+    margin-left: 750px;
+}
+
+.myfirstphoto {
+    text-align: left;
+    background-color: white;
+    margin: 30px 750px;
+    font-size: smaller;
+}
+
+.myfirstphoto img {
+    width: 100%;
+}
+
+
+p {
+    padding: 15px;
+}
+
+ul {
+    text-decoration: none;
+}
+
+.titulo {
+    float: left;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.data {
+    float: right;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.mysecondphoto {
+    text-align: left;
+    background-color: white;
+    margin: 30px 750px;
+    font-size: smaller;
+}
+
+.mysecondphoto img {
+    width: 100%;
+}
+
+
+p {
+    padding: 15px;
+}
+
+.mythirdphoto {
+    text-align: left;
+    background-color: white;
+    margin: 30px 750px;
+    font-size: smaller;
+}
+
+.mythirdphoto img {
+    width: 100%;
+}
+
+
+p {
+    padding: 15px;
+}
